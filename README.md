@@ -4,7 +4,7 @@
 
 [Neural Networks and Activation Function](https://www.analyticsvidhya.com/blog/2021/04/neural-networks-and-activation-function/)
 
-[Activation Function](http://zummitblogs.vcare24.in/activation-functions/)
+[Activation Function-Zummit](http://zummitblogs.vcare24.in/activation-functions/)
 
-[Activation Function](http://zummitblogs.vcare24.in/neural-network-architectures/)
+[Neural Network Architectures-Zummit](http://zummitblogs.vcare24.in/neural-network-architectures/)
 
