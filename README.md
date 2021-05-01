@@ -8,7 +8,7 @@
 
 [Neural Network Architectures-Zummit](http://zummitblogs.vcare24.in/neural-network-architectures/)
 
-[Supervised and Unsupervised ML](http://zummitblogs.vcare24.in/supervised-and-unsupervised-ml/)
+[Supervised and Unsupervised ML-Zummit](http://zummitblogs.vcare24.in/supervised-and-unsupervised-ml/)
 
 
 
