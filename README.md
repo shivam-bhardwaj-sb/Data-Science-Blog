@@ -10,6 +10,11 @@
 
 [Supervised and Unsupervised ML-Zummit](http://zummitblogs.vcare24.in/supervised-and-unsupervised-ml/)
 
+[Data Visualization using Matplotlib-Zummit](http://zummitblogs.vcare24.in/data-visualization-using-matplotlib/)
+
+
+
+
 
 
 
