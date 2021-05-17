@@ -12,7 +12,7 @@
 
 [Data Visualization using Matplotlib-Zummit](http://zummitblogs.vcare24.in/data-visualization-using-matplotlib/)
 
-[convolutional Neural Networks-Zummit](http://zummitblogs.vcare24.in/convolutional-neural-networks-basics/)
+[Convolutional Neural Networks-Zummit](http://zummitblogs.vcare24.in/convolutional-neural-networks-basics/)
 
 
 
