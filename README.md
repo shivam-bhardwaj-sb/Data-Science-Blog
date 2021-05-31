@@ -4,6 +4,8 @@
 
 [Neural Networks and Activation Function](https://www.analyticsvidhya.com/blog/2021/04/neural-networks-and-activation-function/)
 
+[Convolutional Neural Networks : Understand the Basics](https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-understand-the-basics/)
+
 [Activation Function-Zummit](http://zummitblogs.vcare24.in/activation-functions/)
 
 [Neural Network Architectures-Zummit](http://zummitblogs.vcare24.in/neural-network-architectures/)
